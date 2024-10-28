@@ -1,5 +1,5 @@
-# MultiModal001_DDPM
-MultiModal001: DDPM using pytorch
+# MultiModal002_DDPM
+MultiModal002: DDPM using pytorch
 
 <img src="assets/train_sample.jpg" width="657" height="234"/>   
 
